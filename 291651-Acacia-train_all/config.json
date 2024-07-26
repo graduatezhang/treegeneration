@@ -1,0 +1,1 @@
+{"EMB_SIZE": 128, "NHEAD": 4, "FFN_HID_DIM": 128, "BATCH_SIZE": 512, "NUM_ENCODER_LAYERS": 3, "NUM_DECODER_LAYERS": 3, "maxlen": 20000, "vocab": "C:\\Users\\hp\\PycharmProjects\\ACM\\S_counter_2.pkl", "model_number": 291651, "tree_num": "all"}
